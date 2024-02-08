@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "gg",
+      "email": "gg@gmail.com",
+      "password": "789456",
+      "id": 2
+    },
+    {
+      "username": "gowthamp",
+      "email": "gowtham@gmail.com",
+      "password": "789456",
+      "id": 3
+    },
+    {
+      "username": "gowtham.p",
+      "email": "gowtham.p@spantechnologyservices.com",
+      "password": "789456",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
